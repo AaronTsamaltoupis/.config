@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=aaron-tsamaltoupis@web.de
+Enabled=true
+Parent=7f0fe47a3482b396cea434aaf39b257279660eba
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=aaron-tsamaltoupis@web.de
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true

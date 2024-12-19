@@ -1,0 +1,6 @@
+[Default Applications]
+text/css=nvim.desktop
+
+[Added Associations]
+text/css=nvim.desktop;
+application/pdf=org.pwmt.zathura.desktop;okularApplication_pdf.desktop;

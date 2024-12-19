@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=aaron-tsamaltoupis@web.de
+Enabled=true
+Parent=7f0fe47a3482b396cea434aaf39b257279660eba
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=c2648a1a25f5d87d59b2abc5435d1ed0df8988f3
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=aaron-tsamaltoupis@web.de
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
