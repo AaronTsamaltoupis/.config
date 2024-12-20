@@ -4,7 +4,7 @@
             {
                 "allowSdrSoftwareBrightness": false,
                 "autoRotation": "InTabletMode",
-                "brightness": 0.25,
+                "brightness": 0.5,
                 "colorProfileSource": "sRGB",
                 "connectorName": "eDP-1",
                 "edidHash": "6abc49c3a401dda67daa38565d9bfb59",

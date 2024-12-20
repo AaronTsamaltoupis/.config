@@ -9,9 +9,10 @@
 
 window#waybar {
     /*background: rgba(232, 206, 167, 1);*/
-    background: rgba(232, 206, 167, 1);
+    background: rgba(195, 180, 159, 1);
 
-    color: #e8cea7;
+    /*color: #e8cea7;*/
+    color: #CDAFA3
 }
 
 /*#workspaces button {
