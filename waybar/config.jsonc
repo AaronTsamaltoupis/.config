@@ -11,8 +11,8 @@
     ],
     "modules-center": ["hyprland/window","hyprland/workspaces"],
     "modules-right": [
-        "tray",
-/*        "memory",*/
+ /*       "tray",
+        "memory",*/
 /*        "cpu",*/
         "network",
         "battery",

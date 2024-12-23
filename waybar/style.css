@@ -9,7 +9,7 @@
 
 window#waybar {
     /*background: rgba(232, 206, 167, 1);*/
-    background: rgba(195, 180, 159, 1);
+    background: rgba(211, 211, 211, 0.8);
 
     /*color: #e8cea7;*/
     color: #CDAFA3
@@ -73,7 +73,7 @@ window#waybar {
 #workspaces {
     /*background: #1b9dcf;*/
     /*background: #378383;*/
-    background: #42a9a9
+    background: #014076
 
 ;
     border-radius: 10px;
@@ -94,8 +94,8 @@ window#waybar {
 }
 
 #window {
-    color: #2d2726;
-    background: #42a9a9;
+    color:#EEEEEC;
+    background:#014076;
     border-radius: 10px;
     margin-left: 50px;
     margin-right: 3px;

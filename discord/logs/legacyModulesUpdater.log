@@ -1,0 +1,43 @@
+2024-12-21T09:57:41.060Z [Modules] Modules initializing
+2024-12-21T09:57:41.060Z [Modules] Distribution: remote
+2024-12-21T09:57:41.060Z [Modules] Host updates: enabled
+2024-12-21T09:57:41.060Z [Modules] Module updates: enabled
+2024-12-21T09:57:41.061Z [Modules] Module install path: /home/aaron/.config/discord/0.0.77/modules
+2024-12-21T09:57:41.061Z [Modules] Module installed file path: /home/aaron/.config/discord/0.0.77/modules/installed.json
+2024-12-21T09:57:41.061Z [Modules] Module download path: /home/aaron/.config/discord/0.0.77/modules/pending
+2024-12-21T09:57:41.460Z [Modules] Bootstrapping...
+2024-12-21T09:57:41.463Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-12-21T09:57:41.472Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-12-21T09:57:41.474Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-12-21T09:57:41.479Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-12-21T09:57:41.480Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-12-21T09:57:41.483Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-12-21T09:57:41.484Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-12-21T09:57:41.486Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-12-21T09:57:41.487Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-12-21T09:57:41.489Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-12-21T09:57:41.490Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-12-21T09:57:41.491Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-12-21T09:57:41.491Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-12-21T09:57:41.492Z [Modules] Checking for host updates.
+2024-12-21T09:57:41.812Z [Modules] Host update is available. Manual update required!
+2024-12-21T09:58:16.516Z [Modules] Modules initializing
+2024-12-21T09:58:16.516Z [Modules] Distribution: remote
+2024-12-21T09:58:16.516Z [Modules] Host updates: enabled
+2024-12-21T09:58:16.516Z [Modules] Module updates: enabled
+2024-12-21T09:58:16.517Z [Modules] Module install path: /home/aaron/.config/discord/0.0.77/modules
+2024-12-21T09:58:16.517Z [Modules] Module installed file path: /home/aaron/.config/discord/0.0.77/modules/installed.json
+2024-12-21T09:58:16.517Z [Modules] Module download path: /home/aaron/.config/discord/0.0.77/modules/pending
+2024-12-21T09:58:16.909Z [Modules] No updates to install
+2024-12-21T09:58:16.910Z [Modules] Checking for host updates.
+2024-12-21T09:58:17.257Z [Modules] Host update is available. Manual update required!
+2024-12-21T09:58:28.209Z [Modules] Modules initializing
+2024-12-21T09:58:28.210Z [Modules] Distribution: remote
+2024-12-21T09:58:28.210Z [Modules] Host updates: enabled
+2024-12-21T09:58:28.210Z [Modules] Module updates: enabled
+2024-12-21T09:58:28.210Z [Modules] Module install path: /home/aaron/.config/discord/0.0.77/modules
+2024-12-21T09:58:28.210Z [Modules] Module installed file path: /home/aaron/.config/discord/0.0.77/modules/installed.json
+2024-12-21T09:58:28.211Z [Modules] Module download path: /home/aaron/.config/discord/0.0.77/modules/pending
+2024-12-21T09:58:28.587Z [Modules] No updates to install
+2024-12-21T09:58:28.587Z [Modules] Checking for host updates.
+2024-12-21T09:58:28.939Z [Modules] Host update is available. Manual update required!
