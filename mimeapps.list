@@ -1,6 +1,9 @@
 [Default Applications]
 text/css=nvim.desktop
+text/plain=nvim.desktop
 
 [Added Associations]
 text/css=nvim.desktop;
 application/pdf=org.pwmt.zathura.desktop;okularApplication_pdf.desktop;
+text/plain=nvim.desktop;
+text/csv=onlyoffice-desktopeditors.desktop;

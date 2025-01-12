@@ -7,3 +7,7 @@ ShowSidebar=true
 
 [MainWindow]
 ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Documents/pdfcoffee.com_real-python-part-2-pdf-free.pdf
+Name1[$e]=pdfcoffee.com_real-python-part-2-pdf-free.pdf
