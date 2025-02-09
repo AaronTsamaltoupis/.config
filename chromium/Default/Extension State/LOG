@@ -1,2 +1,3 @@
-2025/01/01-11:38:28.138 25cd Creating DB /home/aaron/.config/chromium/Default/Extension State since it was missing.
-2025/01/01-11:38:28.145 25cd Reusing MANIFEST /home/aaron/.config/chromium/Default/Extension State/MANIFEST-000001
+2025/02/09-14:28:50.093 1b22e Reusing MANIFEST /home/aaron/.config/chromium/Default/Extension State/MANIFEST-000001
+2025/02/09-14:28:50.093 1b22e Recovering log #3
+2025/02/09-14:28:50.094 1b22e Reusing old log /home/aaron/.config/chromium/Default/Extension State/000003.log 

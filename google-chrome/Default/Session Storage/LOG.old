@@ -1,0 +1,10 @@
+2025/02/09-13:45:10.635 4 Reusing MANIFEST /home/aaron/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/02/09-13:45:10.636 4 Recovering log #4
+2025/02/09-13:45:10.641 4 Level-0 table #7: started
+2025/02/09-13:45:10.661 4 Level-0 table #7: 169163 bytes OK
+2025/02/09-13:45:10.662 4 Recovering log #6
+2025/02/09-13:45:10.663 4 Reusing old log /home/aaron/.config/google-chrome/Default/Session Storage/000006.log 
+2025/02/09-13:45:10.667 4 Delete type=0 #4
+2025/02/09-13:45:56.871 5 Level-0 table #9: started
+2025/02/09-13:45:56.893 5 Level-0 table #9: 179405 bytes OK
+2025/02/09-13:45:56.897 5 Delete type=0 #6

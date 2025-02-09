@@ -10,4 +10,8 @@ ToolBarsMovable=Disabled
 
 [Recent Files]
 File1[$e]=$HOME/Documents/pdfcoffee.com_real-python-part-2-pdf-free.pdf
+File2[$e]=$HOME/Desktop/USB/Notizbuchscans/searchableDocument2.pdf
+File3[$e]=$HOME/Desktop/USB/Schule/abizeitung/passportinkscapewatermark.png
 Name1[$e]=pdfcoffee.com_real-python-part-2-pdf-free.pdf
+Name2[$e]=searchableDocument2.pdf
+Name3[$e]=passportinkscapewatermark.png

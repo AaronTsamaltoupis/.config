@@ -3,6 +3,15 @@ Id_1=00e80432-2050-4e31-ae9b-2453b16feda5
 Number=1
 Rows=1
 
+[NightColor]
+Active=true
+EveningBeginFixed=2000
+LatitudeAuto=50.52
+LongitudeAuto=9.66
+Mode=Times
+NightTemperature=3900
+TransitionTime=6
+
 [Tiling]
 padding=4
 
